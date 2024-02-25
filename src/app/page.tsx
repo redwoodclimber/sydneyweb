@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="flex flex-col">
       <div className="flex flex-row justify-center">
-        <Image src={headerPic} className="object-cover w-screen"  quality={100} alt="Home image" />
+        <Image src={headerPic} className="object-cover w-screen" quality={100} alt="Home image" priority/>
         <div className="fixed pt-48">
           <div className="p-3 bg-stone-900 rounded-lg text-center">
             <h1 className="text-7xl text-white">

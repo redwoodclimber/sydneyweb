@@ -5,6 +5,8 @@ import { Carousel } from 'flowbite-react';
 import React from 'react';
 import imgList from '@/data/allshowpics.json';
 
+// https://postimg.cc/gallery/2kRByDS/71381da4
+// https://nextjs.org/docs/pages/building-your-application/optimizing/images
 
 // interface Image {
 //   url: string;
