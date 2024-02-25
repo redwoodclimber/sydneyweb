@@ -1,0 +1,42 @@
+[
+    {
+        "title": "The Rover",
+        "role": "Production Stage Manager",
+        "location": "Catawba Theatre",
+        "date": "Jan. 2024",
+        "category": "Theater",
+        "imageList": [
+            
+        ]
+    },
+    {
+        "title": "Photana",
+        "role": "Production Stage Manager",
+        "location": "Freedman Theatre",
+        "date": "Dec. 2023",
+        "category": "Theater",
+        "imageList": [
+            
+        ]
+    },
+    {
+        "title": "Lydia",
+        "role": "Stage Manager",
+        "location": "Patrons Theatre",
+        "date": "Sep. 2023",
+        "category": "Theater",
+        "imageList": [
+            
+        ]
+    },
+    {
+        "title": "Sweeney Todd",
+        "role": "Stage Manager",
+        "location": "Freedman Theatre",
+        "date": "Nov. 2022",
+        "category": "Theater",
+        "imageList": [
+            
+        ]
+    }
+]

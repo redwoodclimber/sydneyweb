@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Opera Scenes",
+        "role": "Assistant Stage Manager",
+        "location": "DeMille Theatre",
+        "date": "Mar. 2022",
+        "category": "Opera",
+        "imageList": [
+            "https://media.gettyimages.com/id/1590916844/photo/powerful-marathon-finish-line-celebration-moment.jpg?s=1024x1024&w=gi&k=20&c=NGtUAHzIzLOxb9WGvD4wKAUAMo3JCJNujpz2ttuMZ8I=",
+            "~/web/sydfinal/public/show_images/DITFOG.jpg"
+        ]
+    },
+    {
+        "title": "Spring Opera Double Bill: Down in the Face of God",
+        "role": "Production Assistant",
+        "location": "Steven's Center (Film)",
+        "date": "Apr. 2021",
+        "category": "Opera",
+        "imageList": [
+            
+        ]
+    }
+]
